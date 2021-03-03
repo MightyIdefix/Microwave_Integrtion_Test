@@ -1,0 +1,5 @@
+C:\Users\PCUser\Documents\Skole\SWT\Assignment_3\MicrowaveOvenClasses\bin\Debug\MicrowaveOvenClasses.dll
+C:\Users\PCUser\Documents\Skole\SWT\Assignment_3\MicrowaveOvenClasses\bin\Debug\MicrowaveOvenClasses.pdb
+C:\Users\PCUser\Documents\Skole\SWT\Assignment_3\MicrowaveOvenClasses\obj\Debug\MicrowaveOvenClasses.csprojAssemblyReference.cache
+C:\Users\PCUser\Documents\Skole\SWT\Assignment_3\MicrowaveOvenClasses\obj\Debug\MicrowaveOvenClasses.dll
+C:\Users\PCUser\Documents\Skole\SWT\Assignment_3\MicrowaveOvenClasses\obj\Debug\MicrowaveOvenClasses.pdb
